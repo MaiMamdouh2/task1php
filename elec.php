@@ -45,7 +45,7 @@ $priceAfterVat = $price + $vat;
 <div class="container ">
           <div class="row ">
           <div class="col-12 mt-5">
-                  <h1 class="text-success text-center h1"> positive or negative</h1>
+                  <h1 class="text-success text-center h1">ELEC</h1>
               </div>
               <div class="offset-4 co1-6 ">
                   <form action="" method="post"> 
